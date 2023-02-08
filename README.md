@@ -1,7 +1,8 @@
-!         [IMG_20230208_115350_718](https://user-images.githubusercontent.com/114453381/217588748-b6cdcb1f-d1c9-4a7b-b9bf-528b938c3f5d.jpg)
-    
-                  Buenas, mi nombres Gabriel Saez, soy un fullstack-developer enfocado con experiencia en Javascript,React,NodeJs,NextJs 
-                  desarrollo front,back, web-desing y bases de datos,puedes mirar mi perfil para mas informacion
+                  ![IMG_20230208_115350_718](https://user-images.githubusercontent.com/114453381/217590886-aff8c8ec-a8a1-443e-87e1-e1b24788848e.jpg)
+                        
+
+                  ✨Buenas, mi nombres Gabriel Saez, soy un fullstack-developer enfocado con experiencia en Javascript,React,NodeJs,NextJs 
+                  desarrollo front,back, web-desing y bases de datos,puedes mirar mi perfil para mas informacion✨
 
 
 <!---
