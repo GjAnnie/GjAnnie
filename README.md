@@ -1,6 +1,4 @@
-                      
-                  ✨Buenas, mi nombres Gabriel Saez, soy un fullstack-developer enfocado con experiencia en Javascript,React,NodeJs,NextJs 
-                           desarrollo front,back, web-desing y bases de datos,puedes mirar mi perfil para mas informacion✨
+ ✨Buenas, mi nombres Gabriel Saez, soy un fullstack-developer enfocado con experiencia en Javascript,React,NodeJs,NextJs,desarrollo front-end,back-end,web-desing y bases de datos,puedes mirar mi perfil para mas informacion✨
 
 
 <!---
